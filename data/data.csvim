@@ -1,0 +1,26 @@
+{
+  "files": [
+    {
+      "table": "TEST_TYPE",
+      "schema": "PUBLIC",
+      "file": "/test/data/type.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ";",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "TEST_DTEAM",
+      "schema": "PUBLIC",
+      "file": "/test/data/dteam.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ";",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    }
+  ]
+}
